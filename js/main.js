@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["We are working on someting interesting.", "We will Bring you something awesome", "Hmm.. Somethin's cooking..!"],
+        strings: ["We are working on someting interesting.", "We will bring you something awesome", "Hmm.. Somethin's cooking..!"],
         typeSpeed: 100,
         backDelay: 900,
         // loop
