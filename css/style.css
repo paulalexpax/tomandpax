@@ -1188,16 +1188,16 @@ ul.portfolio-image li .desc{
   background-color: #527bbb;
 }
 .twitter{
-  background: #ABABAB;
+  background: #d8d8d8;
 }
 .twitter a:after{
   background-color: #77ccf1;
 }
-.gplus{
-  background: #d8d8d8;
+.linkedin{
+  background: #ABABAB;
 }
-.gplus a:after{
-  background: #dd4b39;
+.linkedin a:after{
+  background: #0177B5;
 }
 
 .footer-bottom{
