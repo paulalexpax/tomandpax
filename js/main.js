@@ -90,7 +90,7 @@
 
     //typed js
     $(".typed").typed({
-        strings: ["We are working on someting interesting.", "We will bring you something awesome", "Hmm.. Somethin's cooking..!"],
+        strings: ["Elevator marketing at its best.", "It's an elevator pitch."],
         typeSpeed: 100,
         backDelay: 900,
         // loop
