@@ -956,6 +956,10 @@ ul.portfolio-image li .desc{
 .wrap-about .w-content td.break{
   padding-right: 15px;
 }
+.wrap-about .w-content td.cntnt{
+  padding-right: 15px;
+  font-weight: bold;
+}
 .wrap-about .w-content tr{
   height: 35px;
 }
