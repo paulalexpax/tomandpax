@@ -1272,15 +1272,16 @@ ul.portfolio-image li .desc{
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
-	/* padding-top: 25px; */
+	/*  */
 	height: 0;
-	overflow:hidden;
+	overflow: hidden;
 }
 .videoWrapper iframe {
+	padding-top: 50px;
 	position: absolute;
 	top: 0;
 	left: 0;
 	
 	width: 100%;
-	height: 85%;
+	height:100vh;
 }
