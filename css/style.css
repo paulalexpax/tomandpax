@@ -1278,7 +1278,7 @@ ul.portfolio-image li .desc{
 }
 .videoWrapper iframe {
 	padding-top: 50px;
-	position: absolute;
+	position: relative;
 	top: 0;
 	left: 0;
 	
