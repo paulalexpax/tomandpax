@@ -1273,10 +1273,10 @@ ul.portfolio-image li .desc{
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
 	/*  */
-
+padding-top: 50px;
 }
 .videoWrapper iframe {
-	padding-top: 50px;
+	
 	position: relative;
 	top: 0;
 	left: 0;
