@@ -1269,17 +1269,3 @@ ul.portfolio-image li .desc{
 .skillst .count-bar .count { background-color: #818181;}
 .skillst .count-bar .count span:after { border-top: 4px solid #818181;}
 
-.videoWrapper {
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	/*  */
-	height: 0;
-	overflow: hidden;
-}
-.videoWrapper iframe {
-	padding-top: 50px;
-	position: relative;
-	top: 0;
-	left: 0;
-	height:100vh;
-}
